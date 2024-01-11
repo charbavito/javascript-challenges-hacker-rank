@@ -22,6 +22,3 @@ switch(true){
     default:
         console.log('num deu!')
 }
-
-// console.log(A)
-// console.log(firstLetter)
