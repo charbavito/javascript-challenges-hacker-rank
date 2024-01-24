@@ -33,8 +33,8 @@ This is a series of 25 Javascript Coding Challenges, spread over 10 days explori
 - [Day 2: Conditional Statements: Switch](https://www.hackerrank.com/challenges/js10-switch/problem?isFullScreen=true)
 - [Day 2: Loops](https://www.hackerrank.com/challenges/js10-loops/problem?isFullScreen=true)
 - [Day 3: Arrays](https://www.hackerrank.com/challenges/js10-arrays/problem?isFullScreen=true)
+- [Day 3: Try, Catch, and Finally](https://www.hackerrank.com/challenges/js10-try-catch-and-finally/problem?isFullScreen=true)
 <!--
-- [Day 3: Try, Catch, and Finally](#)
 - [Day 3: Throw](#)
 - [Day 4: Create a Rectangle Object](#)
 - [Day 4: Count Objects](#)
